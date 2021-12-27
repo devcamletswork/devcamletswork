@@ -5,12 +5,12 @@
 
 
 
- 🚀 I’m currently working on FRONT END TECHDEGREE (Team Treehouse)
- ✅ I’m currently learning Front End Development mainly but picking up things in other areas also.
-   - SCSS
-    -J avascript ->React
-    - Wordpress Development With PHP 
- 🤔 I’m looking for help with swift defelopment, react native.
+## 🚀 I’m currently working on FRONT END TECHDEGREE (Team Treehouse)
+## ✅ I’m currently learning Front End Development mainly but picking up things in other areas also.
+  # - SCSS
+   # -J avascript ->React
+   # - Wordpress Development With PHP 
+## 🤔 I’m looking for help with swift defelopment, react native.
 
 
 ## 💼 My Background

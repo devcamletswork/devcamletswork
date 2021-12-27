@@ -10,7 +10,7 @@
   # - SCSS
    # -J avascript ->React
    # - Wordpress Development With PHP 
-## 🤔 I’m looking for help with swift defelopment, react native.
+## 🤔 I’m looking for help with FEND, Learning react native, and possibly collabs on Swift/Kotlin projects.
 
 
 ## 💼 My Background

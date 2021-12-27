@@ -21,7 +21,7 @@
 
 
  💬 Ask me about anything if your new to coding and need some guidance.
- 📫 How to reach me: codewithmrcamazing@gmail.com | Discord @____
+ 📫 How to reach me: codewithmrcamazing@gmail.com | Discord https://discord.gg/mRDcmhA9Ny
  
  ⚡ Fun fact: I love to play basketball on ps5. Or you can catch me on COD. Be sure to join my discord @
 -->

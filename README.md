@@ -1,7 +1,6 @@
 ### Hi there 👋, Im CAM aka MRCAMAZING
 
-##  :computer: I am currently in the Team Treehouse Front End Techdegree
-
+##  :computer: I am currently studying through Team Treehouse.
 
 
 
